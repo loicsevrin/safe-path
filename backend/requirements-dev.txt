@@ -1,6 +1,6 @@
 #For development only
 #Includes all main requirements
--r requirements.txt
-django-debug-toolbar==4.3.0
-django-extensions==3.3.0
-pytest==8.1.1
+# -r requirements.txt
+django-debug-toolbar
+django-extensions
+pytest
